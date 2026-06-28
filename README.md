@@ -4,13 +4,18 @@ A python script to do Voice Activated HotKey press in macOS.
 These are the Terminal commands to resolve dependencies and install this software.
 Brew and Python3 must be installed.
 
-Runs as a Terminal window.
+Runs as a Terminal window. (BASh)
 
 python3.14 -m pip install --upgrade pip    
+
 brew install python
+
 brew install portaudio
+
 pip3 install numpy
+
 pip3 install pyaudio
+
 pip3 install pyautogui
 
 Place python script in home folder, or change command code.
