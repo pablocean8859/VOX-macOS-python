@@ -1,0 +1,1 @@
+python3 ~/mic_trigger.py 
